@@ -7,3 +7,4 @@ function moveDodgerRight() {
   }
 }
 
+var dodger = document.getElementById('dodger')
